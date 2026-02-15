@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|c:\\users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\aigateway\\aigateway\\controllers\\geminicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|solutionrelative:aigateway\\controllers\\geminicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|c:\\users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\aigateway\\aigateway\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|solutionrelative:aigateway\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|c:\\users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\aigateway\\aigateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|solutionrelative:aigateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|c:\\users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\aigateway\\aigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|solutionrelative:aigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|c:\\users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\aigateway\\aigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455553F5-DE5F-4458-9C7E-94F8C037C3C1}|AiGateway\\AiGateway.csproj|solutionrelative:aigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AiGateway\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AiGateway\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:35:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Controllers\\GeminiController.cs",
+              "RelativeDocumentMoniker": "AiGateway\\Controllers\\GeminiController.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Controllers\\GeminiController.cs",
+              "RelativeToolTip": "AiGateway\\Controllers\\GeminiController.cs",
+              "ViewState": "AgIAABkAAAAAMzMzMzMlwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:28:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "AiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\Program.cs",
+              "RelativeToolTip": "AiGateway\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:17:21.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AiGateway\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\WeatherForecast.cs",
+              "RelativeToolTip": "AiGateway\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:17:19.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\.env",
+              "RelativeDocumentMoniker": "AiGateway\\.env",
+              "ToolTip": "C:\\Users\\\u05DC\u05D0\u05D4 \u05D4\u05E6\u05D3\u05D9\u05E7\u05D4\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\AiGateway\\AiGateway\\.env",
+              "RelativeToolTip": "AiGateway\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-15T19:12:14.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

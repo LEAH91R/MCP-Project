@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2yaJPY6F36rng+reTOkxgZlGacdW6UMLjrwE6j0omWs=",
+  "Source": "AiGateway",
+  "BasePath": "_content/AiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
