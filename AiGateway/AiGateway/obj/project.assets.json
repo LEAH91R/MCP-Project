@@ -5184,11 +5184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\לאה הצדיקה\\Desktop\\תכנות לימודים\\AiGateway\\AiGateway\\AiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\לאה הצדיקה\\Documents\\GitHub\\MCP-Project\\AiGateway\\AiGateway\\AiGateway.csproj",
       "projectName": "AiGateway",
-      "projectPath": "C:\\Users\\לאה הצדיקה\\Desktop\\תכנות לימודים\\AiGateway\\AiGateway\\AiGateway.csproj",
+      "projectPath": "C:\\Users\\לאה הצדיקה\\Documents\\GitHub\\MCP-Project\\AiGateway\\AiGateway\\AiGateway.csproj",
       "packagesPath": "C:\\Users\\לאה הצדיקה\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\לאה הצדיקה\\Desktop\\תכנות לימודים\\AiGateway\\AiGateway\\obj\\",
+      "outputPath": "C:\\Users\\לאה הצדיקה\\Documents\\GitHub\\MCP-Project\\AiGateway\\AiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
